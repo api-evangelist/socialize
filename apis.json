@@ -1,0 +1,60 @@
+{
+    "name": "Socialize",
+    "description": "An app's users are its best marketers.  Are you putting your users to work to drive viral app downloads?  If not, you're missing a huge opportunity for growth.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/936-socialize.jpg",
+    "tags": [
+        "have api",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/socialize\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Socialize",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/936-socialize.jpg",
+            "humanURL": "http:\/\/www.getsocialize.com\/docs\/v1\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/socialize-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.getsocialize.com\/docs\/v1\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.getsocialize.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.getsocialize.com\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/socialize"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/socialize"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/socialize"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Socialize"
+        }
+    ]
+}
